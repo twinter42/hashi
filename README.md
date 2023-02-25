@@ -1,5 +1,5 @@
 # hashi
-A simple terminal graphics implementation of the game Hashiwokakero (橋をかけろ), implemented as a project for the course "Programming in C++ SS2018" at the university of Freiburg.
+A simple terminal graphics implementation of the game Hashiwokakero ([橋をかけろ](https://de.wikipedia.org/wiki/Hashiwokakero)), implemented as a project for the course "Programming in C++ SS2018" at the university of Freiburg.
 
 ![Screenshot](readme_picture.png)
 
